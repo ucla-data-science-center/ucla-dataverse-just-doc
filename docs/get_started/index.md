@@ -3,6 +3,7 @@ title: Getting Started
 layout: default
 permalink: /docs/faq
 nav_order: 2
+has_children: true
 ---
 
 # Chapter 1
