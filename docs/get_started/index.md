@@ -1,7 +1,7 @@
 ---
 title: Getting Started
 layout: default
-permalink: /docs/faq
+permalink: /docs/get_started
 nav_order: 2
 has_children: true
 ---
