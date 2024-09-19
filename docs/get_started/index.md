@@ -1,5 +1,5 @@
 ---
-title: Getting Started
+title: Getting Started in UCLA Dataverse
 layout: default
 permalink: /docs/get_started
 nav_order: 2
