@@ -30,7 +30,7 @@ is unlawful, threatening, abusive, harassing, defamatory, libelous, deceptive, f
 - constitutes unauthorized or unsolicited advertising, junk or bulk e-mail (\“spamming\“);
 - contains software viruses or any other computer codes, files, or programs that are designed or intended to disrupt, damage, limit or interfere with the proper function of any software, hardware, or telecommunications equipment or to damage or obtain unauthorized access to any system, data or other information of DSC or any third party.
 
-Additionally, you shall not:
+**Additionally, you shall not:**
 
 1. take any action that imposes or may impose (as determined by DSC in its sole discretion) an unreasonable or disproportionately large load on DSC\’s (or its third party providers\‘) infrastructure;
 2. interfere or attempt to interfere with the proper working of the Service or any activities conducted on the Service; or
@@ -80,7 +80,10 @@ You shall not provide DSC with any confidential or proprietary information that 
 
 ## User Submission Data Usage License Agreement
 
-You hereby adopt and agree to the Creative Commons Zero Public Domain Dedication Waiver, or you hereby affirm that you have adopted a Custom Data Usage License Agreement or the Data Use Agreement described below. 1. Creative Commons Zero Public Domain Dedication Waiver You acknowledge that UCLA Dataverse’s default data usage license agreement for all uploaded materials is a Creative Commons Zero (“CC0”) Public Domain Dedication Waiver. For more information, please visit Creative Commons Zero Full Legal Text at [https://creativecommons.org/publicdomain/zero/1.0/legalcode](https://creativecommons.org/publicdomain/zero/1.0/legalcode). Unless you take all steps necessary to give full legal effect to a “Custom Data Usage License Agreement” or the “Data Use Agreement” described below, you agree to all terms and responsibilities set forth in the CC0 Public Domain Dedication Waiver. 2. Custom Data Usage License Agreement As an alternative, users may draft a Custom Data Usage License Agreement. By choosing to draft a Custom Data Usage License Agreement for a particular dataset, users represent that:
+You hereby adopt and agree to the Creative Commons Zero Public Domain Dedication Waiver, or you hereby affirm that you have adopted a Custom Data Usage License Agreement or the Data Use Agreement described below. 
+
+1. Creative Commons Zero Public Domain Dedication Waiver You acknowledge that UCLA Dataverse’s default data usage license agreement for all uploaded materials is a Creative Commons Zero (“CC0”) Public Domain Dedication Waiver. For more information, please visit Creative Commons Zero Full Legal Text at [https://creativecommons.org/publicdomain/zero/1.0/legalcode](https://creativecommons.org/publicdomain/zero/1.0/legalcode). Unless you take all steps necessary to give full legal effect to a “Custom Data Usage License Agreement” or the “Data Use Agreement” described below, you agree to all terms and responsibilities set forth in the CC0 Public Domain Dedication Waiver.
+2. Custom Data Usage License Agreement As an alternative, users may draft a Custom Data Usage License Agreement. By choosing to draft a Custom Data Usage License Agreement for a particular dataset, users represent that:
 
 - They have written themselves or have permission to use the language of the data usage license agreement they choose;
 - The Custom Data Usage License Agreement covers all restrictions and protections they wish to retain and will not rely on the Site to provide any further protections or restrictions;
