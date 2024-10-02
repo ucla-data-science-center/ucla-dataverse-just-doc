@@ -1,8 +1,10 @@
 ---
+title: Data Science Center Code of Conduct
 description: A code of conduct for the UCLA Library Data Science Center
-fontfamily: quattrocento
+parent: Policies
+layout: default
 ---
-![](450w-UCLADataScienceCenter_logo_blue.png)
+
 
 ## Code of Conduct
 
